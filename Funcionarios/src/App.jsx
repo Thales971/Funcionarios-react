@@ -1,5 +1,5 @@
 import CardFuncionario from './components/CardFuncionario';
-import styles from './App.module.css';
+import styles from 'CardFuncionario.module.css';
 
 function App() {
     const funcionarios = [
